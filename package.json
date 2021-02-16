@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/navelist89/ionic-cordova-plugin-naversdk.git"
+    "url": "git+https://github.com/autochek/ionic-cordova-plugin-naversdk.git"
   },
   "keywords": [
     "naver",
@@ -16,10 +16,10 @@
     "cordova",
     "ionic"
   ],
-  "author": "navelist89",
+  "author": "autochek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/navelist89/ionic-cordova-plugin-naversdk/issues"
+    "url": "https://github.com/autochek/ionic-cordova-plugin-naversdk/issues"
   },
-  "homepage": "https://github.com/navelist89/ionic-cordova-plugin-naversdk#readme"
+  "homepage": "https://github.com/autochek/ionic-cordova-plugin-naversdk#readme"
 }
